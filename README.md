@@ -2,7 +2,6 @@
 
 Plant Disease Detection is an innovative machine learning project that harnesses the power of Convolutional Neural Networks (CNN) and deep learning techniques to identify and classify diseases in plants. The primary objective is to offer farmers and agricultural experts a valuable tool for swift plant health diagnosis, facilitating timely intervention and minimizing the risk of crop loss.
 
-[**Live Demo**](https://saurabhsinghdhami-plant-disease-detection-main-app-p8d5ks.streamlit.app/)
 
 ## Project Structure 📂
 
@@ -13,27 +12,6 @@ The project comprises essential components:
 - `plant_disease_model.h5`: Pre-trained model weights.
 - `requirements.txt`: List of necessary Python packages.
 
-## Installation 🚀
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/SAURABHSINGHDHAMI/Plant-Disease-Detection.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Plant-Disease-Detection
-```
-
-3. **Install the required packages:**
-
-```bash
-pip install -r requirements.txt
-```
 
 4. **Run the Streamlit web application:**
 
